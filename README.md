@@ -15,11 +15,11 @@
 
 运行：
 
-    ./tweets_json2csv.rb /path/to/tweets
+    ./tweets_json2csv.rb <data/js/tweets 所在目录>
 
 或者
 
-    ruby ./tweets_json2csv.rb /path/to/tweets
+    ruby ./tweets_json2csv.rb <data/js/tweets 所在目录>
 
 执行后将在当前目录生成：
 
